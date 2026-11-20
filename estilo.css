@@ -1,0 +1,64 @@
+body {
+    font-family: "Cookie", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+    background-color: #fdf2f8;
+    color: #ff004c;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+
+header a {    color: #fbcfe8; background: linear-gradient(#FF004C, #00C5FF);
+}
+
+section { background-color: white;
+    border: 2px solid #db2777;; border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;}
+
+h1 {  font-size: 32px;}
+
+h2 {  color: #6d28d9;
+    border-bottom: 2px solid #f9a8d4;
+    padding-bottom: 5px;}
+
+h3 { color: #db2777;}
+
+a { color: #db2777;}
+
+footer {
+    background-color: #00C5FF;
+    color: rgb(248, 247, 247);
+    text-align: center;
+    padding: 10px;
+    border: 3px ; border-radius: 10px;
+}
+footer:hover {background-color: 
+    #00141b;}
+
+
+
+hr {      border: none;
+    border-top: 6px solid #00C5FF;
+    border-radius: 10px;;}
+
+section:hover { background-color: #170006}
+
+#p {font-size: 50px;text-align: center;font-style: oblique;text-transform: uppercase;
+    letter-spacing: 5px;text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    border-top: 3px solid #00C5FF;
+    border-bottom: 3px solid #00C5FF;
+    padding: 10px 0}
+
+    #p:hover {color: #00C5FF; font-family: "Great Vibes", cursive;}
+
+
+
+hr:hover{border-top-color: #2d022f}
